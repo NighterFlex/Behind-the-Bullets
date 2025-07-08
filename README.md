@@ -1,5 +1,6 @@
 # Behind the Bullets - FPS GAME DATABASE
 Behind the Bullets is a database project focused on organizing key data for a multiplayer FPS game, inspired by Valorant, all built using MySQL
+
 A database project I did with my duo for my Database Systems course, inspired by Valorant. This ones all about storing, managing, and retrieving multiplayer game data from players and agents to weapons, skins, and ranks. All built in MySQL.
 
 # 📌 Project Overview
@@ -22,4 +23,5 @@ This database keeps track of:
 # 📂 Files
 
 `behindthebullets.sql` - MySQL script
+
 `ER Diagram.png` - Entity-Relationship Diagram made on Draw.io
